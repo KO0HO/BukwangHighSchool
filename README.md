@@ -18,14 +18,17 @@ e-나라지표
  https://mdis.kostat.go.kr/
 
 # R 설치 ( * rstudio 설치 전에 해야함)
-
 https://cran.r-project.org/bin/windows/base/
+![image](https://user-images.githubusercontent.com/100475660/179459456-6c918809-020b-43b5-9f98-bc1574330bab.png)
+
 Download R-4.2.1 for Windows 클릭
 
 
 # R studio 설치 
-
 https://www.rstudio.com/products/rstudio/download/
+
+![image](https://user-images.githubusercontent.com/100475660/179459535-9eca2760-1e34-4487-b598-ee75080c93db.png)
+
 
 RStudio Desktop
 Open Source License
